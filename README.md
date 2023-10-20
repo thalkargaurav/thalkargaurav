@@ -37,7 +37,7 @@ I'm always open to connecting with fellow developers, tech enthusiasts, and anyo
 
 Linkedin :  https://www.linkedin.com/in/gaurav-thalkar-194bb8285/
 
-Naukri :  
+Naukri :  https://www.naukri.com/mnjuser/profile?id=&altresid
 
 Gmail :  thalkargaurav@gmail.com
 
