@@ -25,7 +25,7 @@ Technologies I Work With:
 
 🌐 Web Technologies
 
-🌐 React , Bootstrap
+⚛️ React , Bootstrap
 
 📊 SQL
 
@@ -35,13 +35,13 @@ Let's Connect
 I'm always open to connecting with fellow developers, tech enthusiasts, and anyone interested in what I do. You can find me on:
 
 
-Linkedin
+Linkedin :  https://www.linkedin.com/in/gaurav-thalkar-194bb8285/
 
-Naukri 
+Naukri :  
 
-Gmail 
+Gmail :  thalkargaurav@gmail.com
 
-GitHub 
+GitHub :  https://github.com/thalkargaurav
 
 
 🛠Tech Stack
