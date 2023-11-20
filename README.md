@@ -13,7 +13,7 @@ About Me:
 
 💬 Ask me about anything, I am happy to help.
 
-📫 How to reach me: thalkargaurav@gmail.com
+📫 How to reach me: thalkargaurav@gmail.com / 9769661316
 
 
 
