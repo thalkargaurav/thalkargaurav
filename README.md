@@ -20,6 +20,7 @@ About Me:
 
 
 Technologies I Work With:
+
 Manual Testing 
 
 Automation Testing (Selenium with Java) 
