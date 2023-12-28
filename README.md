@@ -1,6 +1,6 @@
 Hi there, I'm Gaurav Thalkar 
 
-Welcome to my GitHub profile! I'm a Software Development Engineer , passionate about Software Development, Software Testing, Algorithms, Problem Solving.
+Welcome to my GitHub profile! I'm a Software Testing Engineer , passionate about Software Testing (Manually Or Automation), Algorithms, Problem Solving.
 
 
 About Me:
@@ -20,6 +20,14 @@ About Me:
 
 
 Technologies I Work With:
+Manual Testing 
+
+Automation Testing (Selenium with Java) 
+
+SDLC, STLC
+Functional Testing, Non Functional Testing 
+Regession Testing, Retesting
+Defect Life Cycle, Test Reports
 
 🚀 Java 
 
@@ -46,11 +54,17 @@ GitHub :  https://github.com/thalkargaurav
 
 🛠Tech Stack
 
+Manual Testing 
+Automation Testing (Selenium with Java) 
+SDLC, STLC
+Functional Testing, Non Functional Testing 
+Regession Testing, Retesting
+Defect Life Cycle, Test Reports
 
 HTML5 CSS3 JavaScript React Bootstrap  Java SQL Git
 
-Eclipse Vscode Wordpress MySQL Oracle Github
+JIRA Eclipse VisualStudio Wordpress MySQL Oracle Github
 
 Show some ❤️ by starring some of the repositories!
 Support My Work
-Your support is greatly appreciated! Feel free to reach out, and let's have a chat! Thanks for stopping by and exploring my GitHub profile. Happy coding! 🚀
+Your support is greatly appreciated! Feel free to reach out, and let's have a chat! Thanks for stopping by and exploring my GitHub profile. Happy coding and Testing! 🚀
