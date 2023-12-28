@@ -9,7 +9,7 @@ About Me:
 
 💼 I'm currently working on Cool Projects.
 
-🌱 I'm currently learning React.
+🌱 I'm currently learning Automation.
 
 💬 Ask me about anything, I am happy to help.
 
